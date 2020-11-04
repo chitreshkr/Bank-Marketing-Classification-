@@ -1,3 +1,5 @@
+### Snippets of Neural Network Algorithm for Classification of customers for Bank Marketing
+
 ```python
 import numpy as np
 import pandas as pd
